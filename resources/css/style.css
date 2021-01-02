@@ -1,0 +1,18 @@
+.containner{
+    border: solid 1px black;
+    text-align: center;
+    width:70%;
+    margin: 0 auto;
+}
+
+.flex-box-containner{
+    display: flex;
+    border: solid 1px #124;
+    background-color: blue;
+    padding: 10px;
+    margin-left: 20px;
+    justify-content: center;
+    align-content: center;
+    min-height: 100vh;
+
+}
